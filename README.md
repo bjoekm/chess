@@ -1,6 +1,6 @@
 CHESS
 
-BACKGORUND
+BACKGORUND <br>
 A hobby project for me to practies coding. Particularly decoupling of UI and data. 
 To some extent also try to allow for different games (primarly differnt chess versions, but maybe also Ohtello) 
 with as few changes as possible 
