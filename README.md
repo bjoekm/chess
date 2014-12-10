@@ -19,15 +19,15 @@ UI extras:
 - board rotation?
 
 Past moves:
-1. Show which moves which have been made so far. 
-2. Go back in move list
-3. Go forward again
-4. Save and load move lists (preferably competatilbe with mvoelists from world championship)
+- Show which moves which have been made so far. 
+- Go back in move list
+- Go forward again
+- Save and load move lists (preferably competatilbe with mvoelists from world championship)
 
 Timers:
-1. Show total game time, show time used by each player
-2. Adapt to a more real chess clock, with some easy mechanism to switch between players
-3. Allow user to change time settnigs (ie. total amount of time, time gain at certain events etc), preferably though a menu
+- Show total game time, show time used by each player
+- Adapt to a more real chess clock, with some easy mechanism to switch between players
+- Allow user to change time settnigs (ie. total amount of time, time gain at certain events etc), preferably though a menu
 
 Differnt game modes:
 - Don't know the name but a funny variant where the player that first loses all his pieces wins. 
@@ -36,9 +36,9 @@ Differnt game modes:
 - Othello?
   
 Network:
-1. Enable play over local network
+- Enable play over local network
 
-AI?
+AI:
 - very much low priority. Probably in this case try to interface to an existing chess eninge.
 
 Mobile
