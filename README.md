@@ -14,6 +14,7 @@ This inlcudes:
 - some sort of "rulebook"
 
 Extensions (somewhat in order of priority):
+
 UI extras:
 - Higlight possible moves
 - board rotation?
