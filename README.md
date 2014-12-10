@@ -5,7 +5,7 @@ A hobby project for me to practies coding. Particularly decoupling of UI and dat
 To some extent also try to allow for different games (primarly differnt chess versions, but maybe also Ohtello) 
 with as few changes as possible 
 
-WHAT IT AIMS FOR
+WHAT IT AIMS FOR<br>
 A user interface to allow two players to play a game of chess (hot-seat).
 This inlcudes:
 - an UI
@@ -13,8 +13,7 @@ This inlcudes:
 - game objects
 - some sort of "rulebook"
 
-Extensions (somewhat in order of priority):
-
+<b>Extensions </b> (somewhat in order of priority):<br>
 UI extras:
 - Higlight possible moves
 - board rotation?
